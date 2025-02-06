@@ -1,3 +1,4 @@
+
 # Aplicativo de Detecção e Classificação de Doenças em Folhas de Café Arábica
 
 Este projeto foi desenvolvido para atender à demanda do PAVIC-LAB, fornecendo uma solução mobile que implementa um de seus trabalhos em visão computacional: a detecção e classificação de doenças em folhas de café arábica. O aplicativo visa auxiliar agricultores e pesquisadores na identificação precoce de doenças, como Rust, Miner, Phoma e Cercospora, reduzindo perdas e aumentando a produtividade.
